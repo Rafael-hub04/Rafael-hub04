@@ -2,7 +2,7 @@
 
 
 Me chamo Rafael Assis da Silva, tenho 37 anos e sou natural do Rio de Janeiro. Trabalhei por 12 anos no setor de logística na Cervejaria Ambev. Estou focado em fazer transição de carreira para a área de TI me especializando em Python. "[instagram](https://www.instagram.com/rafaelautomacao/)". ".[Linkedin
-            <i class="devicon-linkedin-plain "></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           ](https://www.linkedin.com/in/rafael-assis-7a31b8303?)
          
          
