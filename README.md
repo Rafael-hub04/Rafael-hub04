@@ -32,6 +32,9 @@ Me chamo Rafael Assis da Silva, tenho 37 anos e sou natural do Rio de Janeiro. T
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
@@ -40,7 +43,7 @@ Me chamo Rafael Assis da Silva, tenho 37 anos e sou natural do Rio de Janeiro. T
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Rafael-hub04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
