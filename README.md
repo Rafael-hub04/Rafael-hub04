@@ -38,15 +38,6 @@ Me chamo Rafael Assis da Silva, tenho 37 anos e sou natural do Rio de Janeiro. T
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
-<img 
-    align="left" 
-    alt="Linkedin"
-    title="Linkedin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-/>
-
 
 
 <br/>
